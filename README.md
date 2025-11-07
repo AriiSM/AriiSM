@@ -16,7 +16,7 @@ I focus on developing solutions at the intersection of:
 - **1st Place – [PoliHack v17, AppDev Division](https://github.com/AriiSM/PoliHack_V17)**  
   *Gene Explorer – Drug repurposing platform powered by BioGPT and interactive 3D graphs.*
 
-- **2nd Place – [Cybersecurity Hackathon](https://github.com/AriiSM/Hermes-Hackthon-2024) **  
+- **2nd Place – [Cybersecurity Hackathon](https://github.com/AriiSM/Hermes-Hackthon-2024)**  
   *Trust Issues – A gamified phishing-awareness experience inspired by “Papers, Please.”*
 
 ---
