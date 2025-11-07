@@ -1,92 +1,90 @@
-# Hi there! I'm Ariana – but you can call me Ari 👋
+## 🧠 Ariana — Human-Centered AI Developer
 
-I'm a Computer Science student with a soft spot for **AI that connects with people**.  
-I build intelligent systems that don't just compute.
+I’m a **Computer Science graduate** passionate about building **AI that understands and connects with people**.  
+My work blends **machine learning, cognition and design thinking** to create systems that are not only intelligent.
 
-Right now, I’m blending **code, cognition, and curiosity** to bring projects to life at the intersection of:
-- human-centered AI
-- emotion understanding
-- personalized experiences
-- health tech innovation
-
-Let’s make technology feel a little more... human.
-
-Always open to collaborations, especially on AI projects with a human twist.
+I focus on developing solutions at the intersection of:
+- human-centered AI  
+- emotion and behavior understanding  
+- personalized and adaptive experiences  
+- health technology innovation  
 
 ---
 
-### Achievements
+### 🏆 Achievements
 
-- **1st Place** – *PoliHack v17*, AppDev Division  
-  *Gene Explorer – Drug repurposing platform powered by BioGPT and interactive 3D graphs*
+- **1st Place – [PoliHack v17, AppDev Division](https://github.com/AriiSM/PoliHack_V17)**  
+  *Gene Explorer – Drug repurposing platform powered by BioGPT and interactive 3D graphs.*
 
-- **2nd Place** – *Cybersecurity Hackathon*  
-  *Trust Issues – A gamified phishing-awareness game inspired by Papers, Please*
+- **2nd Place – [Cybersecurity Hackathon](https://github.com/AriiSM/Hermes-Hackthon-2024) **  
+  *Trust Issues – A gamified phishing-awareness experience inspired by “Papers, Please.”*
 
 ---
 
-### Featured Projects (Completed)
-
-- [**Gene Explorer**](https://github.com/AriiSM/PoliHack_V17)  
-  A platform for drug repurposing, integrating BioGPT with interactive 3D gene–drug graphs.  
-  Built for researchers and healthcare professionals to explore new therapeutic potentials.  
-  
-- [**Trust Issues**](https://github.com/AriiSM/Hermes-Hackthon-2024)  
-  A narrative-driven game where players act as digital investigators analyzing profiles, messages, and patterns to detect phishing.  
-  Designed to raise awareness of social engineering threats through gamification.  
+### 💡 Featured Projects
 
 - [**Hand Gestures Recognition**](https://github.com/AriiSM/Hand-Gesture-Recognition)  
-  Real-time hand gesture detection using computer vision and a custom CNN built from scratch.  
-  Designed for intuitive interaction and as an accessibility-friendly input method.
+  Real-time gesture detection using a custom CNN, designed for accessibility and intuitive control.
 
 - [**Speed Catch**](https://github.com/AriiSM/SpeedCatch)  
-  A lightweight similarity search engine built from scratch using vector embeddings and FAISS.  
-  Designed to be transparent and fully explainable, with a focus on clarity over complexity.
-  
+  Lightweight similarity search engine built with FAISS and transparent embedding logic.
+
 - [**SoulSpice**](https://github.com/AriiSM/SoulSpice)  
-  A personalized conversational assistant that combines a fine-tuned LLM with Retrieval-Augmented Generation (RAG). Delivers context-aware, preference-based responses using curated psychological and gastronomic datasets, with FAISS-powered retrieval.
-
-### Projects in Progress
-
-- **NeuroMote**
-  A multimodal AI system that combines audio and video input to detect emotional states.  
-  Focused on emotion analysis through voice tone and facial expression fusion.
+  Personalized conversational AI assistant combining LLM fine-tuning and RAG for preference-based responses.
 
 ---
 
-### My AI Toolbox
+### 🔬 Work in Progress
 
-From research to prototyping and deployment, these are the tools I rely on to bring intelligent systems to life:
+- **NeuroMote** *(Bachelor’s Thesis — Repository in Progress)*  
+  A multimodal emotion recognition system combining audio and video signals for affective computing applications.  
+  Focused on detecting and interpreting emotional states through tone and facial expression fusion.
+
+
+- **LipReadSense** *(Master’s Thesis Project)*  
+  A deep learning-based lip reading system that decodes spoken language **solely from lip movements**, without relying on any audio input.  
+---
+
+### ⚙️ AI Toolbox
 
 ![Python](https://img.shields.io/badge/-Python-black?logo=python)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?logo=pytorch)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-black?logo=scikitlearn)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-black?logo=huggingface)
+![Transformers](https://img.shields.io/badge/-Transformers-black?logo=python)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-black?logo=opencv)
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-black?logo=google)
 ![FAISS](https://img.shields.io/badge/-FAISS-black?logo=meta)
+![LangChain](https://img.shields.io/badge/-LangChain-black?logo=openai)
+![RAG](https://img.shields.io/badge/-RAG-black?logo=openai)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-black?logo=elasticsearch)
+![Docker](https://img.shields.io/badge/-Docker-black?logo=docker)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?logo=fastapi)
 
-> Comfortable working across supervised learning, NLP, computer vision, and multimodal architectures.
+> Skilled in NLP, computer vision, multimodal learning, retrieval systems, and AI deployment pipelines.
 
-### Other Technical Skills
+---
 
-I often pair my AI work with full-stack tools for interaction, APIs, and experimentation:
+### 🧩 Other Technical Skills
 
 ![React](https://img.shields.io/badge/-React-black?logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?logo=typescript)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?logo=node.js)
 ![Postman](https://img.shields.io/badge/-Postman-black?logo=postman)
 ![Java](https://img.shields.io/badge/-Java-black?logo=java)
 ![Git](https://img.shields.io/badge/-Git-black?logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github)
+![REST](https://img.shields.io/badge/-REST--APIs-black?logo=swagger)
+![SQL](https://img.shields.io/badge/-SQL-black?logo=postgresql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?logo=mongodb)
 
-> Also experienced with OOP design patterns, REST APIs, and component-based architectures.
-
+> Experienced in OOP design, RESTful architectures, scalable APIs, and modular system design.
 
 ---
 
-### Currently Exploring
+### 🔍 Currently Exploring
 
-- Transformer architectures, prompt tuning, and LLM fine-tuning  
-- NLP techniques like named entity recognition, sentiment & intent classification  
-- Multimodal learning: combining speech, face, and emotion detection
+- **Search in Big Data** with ElasticSearch and vector databases  
+- **Lip Reading models** using spatio-temporal transformers  
+- **Computer Vision pipelines** for facial and gesture analysis  
+- **Cross-modal learning** for emotion and speech understanding  
