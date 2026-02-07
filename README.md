@@ -36,7 +36,7 @@ I focus on developing solutions at the intersection of:
 
 ### 🔬 Work in Progress
 
-- **NeuroMote** *([Bachelor’s Thesis](https://github.com/AriiSM/NeuroMote))*  
+- [**NeuroMote**]((https://github.com/AriiSM/NeuroMote)) *(Bachelor’s Thesis)*  
   A multimodal emotion recognition system combining audio and video signals for affective computing applications.  
   Focused on detecting and interpreting emotional states through tone and facial expression fusion.
 
